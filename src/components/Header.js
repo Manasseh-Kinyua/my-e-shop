@@ -6,7 +6,7 @@ function Header() {
     <header>
         <Navbar bg="dark" variant='dark' expand="lg" collapseOnSelect>
             <Container>
-                <Navbar.Brand href="/">ProShop</Navbar.Brand>
+                <Navbar.Brand href="/">Nasseh E-Comm</Navbar.Brand>
                 <Navbar.Toggle aria-controls="navbarScroll" />
                 <Navbar.Collapse id="navbarScroll">
                     <Nav
